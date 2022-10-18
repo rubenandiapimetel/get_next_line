@@ -8,7 +8,8 @@ Usar la funcion int get_next_line(int filedescr, char **buffer) por cada linea l
 
 parametros
 
-int filedescriptor: es el descriptor de archivo a leer devuelto por la funcion fopen()
+int filedescriptor: es el descriptor de archivo a leer devuelto por la funcion fopen().
+
 char**buffer: un doble puntero que sirve como buffer para almacenar el texto leido en cada linea de la matriz.
 
 cada llamada a la funcion devuelve en el buffer una linea leida.
