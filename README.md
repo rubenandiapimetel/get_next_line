@@ -1,6 +1,6 @@
 # get_next_line
 
-Recrea la funcion getline d C
+Para leer un archivo de texto:
 
 hacer make
 
